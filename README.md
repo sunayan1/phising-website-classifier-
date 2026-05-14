@@ -12,8 +12,8 @@ A BERT-based binary text classifier that detects phishing websites from URLs and
  
 ### Confusion Matrix
  
-![Confusion Matrix](<img width="490" height="374" alt="cm" src="https://github.com/user-attachments/assets/17ff6572-371e-478d-95b2-fd070bca382a" />
-)
+![Confusion Matrix](cm.png)
+
  
 The model performs consistently across both classes (F1: 0.87 for Safe, 0.87 for Not Safe), showing no bias toward either class.
  
